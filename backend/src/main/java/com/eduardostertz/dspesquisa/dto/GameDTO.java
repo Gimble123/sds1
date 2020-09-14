@@ -5,7 +5,7 @@ import java.io.Serializable;
 import com.eduardostertz.dspesquisa.entities.Game;
 import com.eduardostertz.dspesquisa.entities.enums.Platform;
 
-public class GameDTO implements Serializable{
+public class GameDTO implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
 	
